@@ -1,0 +1,19 @@
+img{
+	width:200px;
+	background-color: pink;
+	border:32px solid yellow;
+	}
+
+div{
+	background:orange;
+	width:265px;
+	padding:32px; /*padding de 32px 32px 32px 32px*/
+	border:10px solid red;
+	
+	/*Aplicando las reglas desglosadas*/
+	margin-top:150px; 
+	margin-right:50px;
+	margin-bottom:150px;
+	margin-left:450px; 
+    /*me centra la imagen en el medio de la página*/ */
+}	
